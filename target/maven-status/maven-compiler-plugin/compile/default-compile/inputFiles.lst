@@ -1,5 +1,7 @@
-C:\Workspace\eventoapp\src\main\java\com\eventoapp\eventoapp\EventoappApplication.java
-C:\Workspace\eventoapp\src\main\java\com\eventoapp\eventoapp\controller\EventoController.java
-C:\Workspace\eventoapp\src\main\java\com\eventoapp\eventoapp\repository\EventoRepository.java
-C:\Workspace\eventoapp\src\main\java\com\eventoapp\eventoapp\model\Evento.java
-C:\Workspace\eventoapp\src\main\java\com\eventoapp\eventoapp\controller\IndexController.java
+C:\workspace\EventosApp\src\main\java\com\eventoapp\eventoapp\EventoappApplication.java
+C:\workspace\EventosApp\src\main\java\com\eventoapp\eventoapp\controller\EventoController.java
+C:\workspace\EventosApp\src\main\java\com\eventoapp\eventoapp\repository\EventoRepository.java
+C:\workspace\EventosApp\src\main\java\com\eventoapp\eventoapp\model\Convidado.java
+C:\workspace\EventosApp\src\main\java\com\eventoapp\eventoapp\model\Evento.java
+C:\workspace\EventosApp\src\main\java\com\eventoapp\eventoapp\controller\IndexController.java
+C:\workspace\EventosApp\src\main\java\com\eventoapp\eventoapp\repository\ConvidadoRepository.java
