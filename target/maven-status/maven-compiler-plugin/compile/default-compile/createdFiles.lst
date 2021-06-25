@@ -1,0 +1,5 @@
+com\eventoapp\eventoapp\controller\IndexController.class
+com\eventoapp\eventoapp\EventoappApplication.class
+com\eventoapp\eventoapp\model\Evento.class
+com\eventoapp\eventoapp\controller\EventoController.class
+com\eventoapp\eventoapp\repository\EventoRepository.class
